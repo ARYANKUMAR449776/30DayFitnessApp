@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">30DayFitnessApp</string>
+
+    <string name="exercise_name_1">Push-ups</string>
+    <string name="exercise_name_2">Squats</string>
+    <string name="exercise_name_3">Lunges</string>
+    <string name="exercise_name_4">Plank</string>
+    <string name="exercise_name_5">Jumping Jacks</string>
+    <string name="exercise_name_6">Burpees</string>
+    <string name="exercise_name_7">Mountain Climbers</string>
+    <string name="exercise_name_8">High Knees</string>
+    <string name="exercise_name_9">Crunches</string>
+    <string name="exercise_name_10">Bicycle Crunches</string>
+    <string name="exercise_name_11">Triceps Dips</string>
+    <string name="exercise_name_12">Wall Sit</string>
+    <string name="exercise_name_13">Russian Twists</string>
+    <string name="exercise_name_14">Superman</string>
+    <string name="exercise_name_15">Jump Squats</string>
+    <string name="exercise_name_16">Side Plank</string>
+    <string name="exercise_name_17">Calf Raises</string>
+    <string name="exercise_name_18">Leg Raises</string>
+    <string name="exercise_name_19">Dead Bug</string>
+    <string name="exercise_name_20">Glute Bridges</string>
+    <string name="exercise_name_21">Reverse Lunges</string>
+    <string name="exercise_name_22">Step-ups</string>
+    <string name="exercise_name_23">Shadow Boxing</string>
+    <string name="exercise_name_24">Arm Circles</string>
+    <string name="exercise_name_25">Flutter Kicks</string>
+    <string name="exercise_name_26">Side Lunges</string>
+    <string name="exercise_name_27">Bear Crawl</string>
+    <string name="exercise_name_28">Tuck Jumps</string>
+    <string name="exercise_name_29">Hip Thrusts</string>
+    <string name="exercise_name_30">Jump Rope</string>
+
+    <!-- Dynamic Exercise Duration -->
+    <string name="exercise_duration">%d</string>
+
+    <!-- Exercise Descriptions -->
+    <string name="exercise_description_1">Strengthen your upper body with push-ups.</string>
+    <string name="exercise_description_2">Engage your legs with deep squats.</string>
+    <string name="exercise_description_3">Improve balance and leg strength with lunges.</string>
+    <string name="exercise_description_4">Core stability exercise that builds endurance.</string>
+    <string name="exercise_description_5">A fun, high-energy cardio workout.</string>
+    <string name="exercise_description_6">Full-body workout to burn calories fast.</string>
+    <string name="exercise_description_7">Build endurance and agility with mountain climbers.</string>
+    <string name="exercise_description_8">Boost your heart rate with high knees.</string>
+    <string name="exercise_description_9">A core workout to tone your abs.</string>
+    <string name="exercise_description_10">Engage your obliques with bicycle crunches.</string>
+    <string name="exercise_description_11">Work your triceps with chair dips.</string>
+    <string name="exercise_description_12">Challenge your legs and core with a wall sit.</string>
+    <string name="exercise_description_13">Improve oblique strength with Russian twists.</string>
+    <string name="exercise_description_14">Strengthen your lower back and core with the superman pose.</string>
+    <string name="exercise_description_15">Add explosiveness to your squats.</string>
+    <string name="exercise_description_16">Build core strength with a side plank.</string>
+    <string name="exercise_description_17">Strengthen your calves with simple raises.</string>
+    <string name="exercise_description_18">A lower ab workout to improve stability.</string>
+    <string name="exercise_description_19">Improve core control with the dead bug exercise.</string>
+    <string name="exercise_description_20">Strengthen your glutes with controlled hip lifts.</string>
+    <string name="exercise_description_21">A variation of lunges to target different muscles.</string>
+    <string name="exercise_description_22">A great way to work your legs using stairs.</string>
+    <string name="exercise_description_23">Improve coordination with shadow boxing.</string>
+    <string name="exercise_description_24">Loosen up your shoulders with arm circles.</string>
+    <string name="exercise_description_25">Engage your core and legs with flutter kicks.</string>
+    <string name="exercise_description_26">Improve flexibility and leg strength.</string>
+    <string name="exercise_description_27">A full-body movement that improves agility.</string>
+    <string name="exercise_description_28">Explosive movement for better athleticism.</string>
+    <string name="exercise_description_29">Strengthen your glutes and hamstrings.</string>
+    <string name="exercise_description_30">Improve endurance with jump rope training.</string>
+
+</resources>
