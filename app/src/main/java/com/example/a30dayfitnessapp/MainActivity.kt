@@ -103,9 +103,9 @@ fun ExerciseItem(exercise: Exercise, modifier: Modifier = Modifier) {
         else MaterialTheme.colorScheme.primaryContainer
     )
 
-    // Make the whole Card clickable
+
     Card(
-        modifier = modifier.clickable { expanded = !expanded } // Make Card clickable
+        modifier = modifier.clickable { expanded = !expanded }
     ) {
         Column(
             modifier = Modifier.animateContentSize(
